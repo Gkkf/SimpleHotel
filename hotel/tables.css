@@ -1,0 +1,23 @@
+h1 
+{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+tbody 
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+#bti 
+{
+    margin-left: 5%;
+}
+
+footer 
+{
+    text-align: center;
+    width: 100%;
+}

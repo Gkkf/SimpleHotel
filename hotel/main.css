@@ -1,0 +1,73 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+header 
+{
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+}
+
+main 
+{
+    min-height: 70vh;
+}
+
+section 
+{
+    background-color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+
+section h2 
+{
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+section p 
+{
+    font-size: 1.2rem;
+}
+
+footer 
+{
+    background-color: #eee;
+    color: #444;
+    font-size: 1.1rem;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.btn-primary 
+{
+    background-color: #2780e3;;
+    border-color: #2780e3;;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.btn-primary:hover, .btn-primary:focus 
+{
+    background-color: #0062cc;
+    border-color: #005cbf;
+    color: #fff;
+    text-decoration: none;
+}
+
+img
+{
+    width: 100%;
+}
